@@ -12,6 +12,7 @@
     <module>kafka-consumer</module>
     <module>kafka-producer</module>
     <module>kafka-commons</module>
+    <module>kafka-streams</module>
   </modules>
 
   <properties>
